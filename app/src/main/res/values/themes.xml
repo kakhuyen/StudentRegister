@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StudentRegister" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/button_blue</item>
+        <item name="colorPrimaryVariant">@color/button_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/button_blue</item>
+        <item name="android:windowBackground">@color/sky_blue</item>
+        <item name="android:statusBarColor">@color/sky_blue</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
